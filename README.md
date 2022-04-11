@@ -1,0 +1,2 @@
+# AXI2APB-Bridge-degug-using-JTAG2AXI-Master
+In this repository, the hardware tests for the RTL code that you can find in my profile ("AXI2APB-Bridge-Design-and-Verification") will be tested using the JTAG to AXI Master IP Core provided by XILINX. You will also be seeing the APB Slave RTL code that can also be found in my profile ("APB-Slave-Verification"). These RTL codes are packaged by adding an interface 
